@@ -1,1 +1,6 @@
-# carloceos
+## ola! eu sou o Carlos.
+‹div›
+‹a href="[https://beacons.ai/rafaballerini](https://github.com/Carlosceos)*>
+<img height-"180m" src-"https://github-readme-stats.vercel.app/api?username=rafaballerini2&show_icons-true&themedracula&include_all_commits=true&count_private=true*L›
+<img height-"180em" src-"https://github-readme-stats.vercel.app/api/top-langs/?username-rafaballerini281ayout-compact&langs_count-16&theme-dracula" L>
+</div>
